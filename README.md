@@ -1,5 +1,5 @@
 # WordPress
-Chris worte a comment here!
+Chris wrote a comment here!
 
 This is a WordPress repository configured to run on the [Pantheon platform](https://pantheon.io).
 
