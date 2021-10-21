@@ -1,4 +1,3 @@
-Hi Talleest Tree team!
 
 # WordPress
 
